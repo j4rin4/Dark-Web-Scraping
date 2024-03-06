@@ -1,0 +1,17 @@
+Buenas!
+
+Esta es la verson final de rasping web, enfocado a Vendetta.
+Este script utiliza la conexión por Proxy y Selenium para las sesiones de requests.
+
+Para instalar los requisitos prueba con "pip install -r requirements.txt"
+Asegúrate de tener instalado google chrome para tener una buena ejecución del programa. 
+
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+sudo dpkg -i google-chrome-stable_current_amd64.deb
+sudo apt-get install -f
+
+Para cualquier duda no dudes en contactar conmigo.
+
+Att.
+
+j4rin4
